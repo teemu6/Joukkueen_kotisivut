@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d555cd1bab600dd0d5943ebad67a3ce",
+    "revision": "03d0c96e089ffc34d0423c1480fc4f28",
     "url": "/~M9442/web_ohjelmointi/harjtyo/index.html"
   },
   {
-    "revision": "d9d22ec7731d43889c78",
-    "url": "/~M9442/web_ohjelmointi/harjtyo/static/css/main.d3454084.chunk.css"
+    "revision": "705e4c2a7eb50bdb070e",
+    "url": "/~M9442/web_ohjelmointi/harjtyo/static/css/main.9795df5b.chunk.css"
   },
   {
-    "revision": "26cd358708b5c845eadf",
-    "url": "/~M9442/web_ohjelmointi/harjtyo/static/js/2.39db60dd.chunk.js"
+    "revision": "01f22d9b944f0f554ef2",
+    "url": "/~M9442/web_ohjelmointi/harjtyo/static/js/2.d0c1d460.chunk.js"
   },
   {
-    "revision": "d9d22ec7731d43889c78",
-    "url": "/~M9442/web_ohjelmointi/harjtyo/static/js/main.0f29038c.chunk.js"
+    "revision": "705e4c2a7eb50bdb070e",
+    "url": "/~M9442/web_ohjelmointi/harjtyo/static/js/main.4d235b7c.chunk.js"
   },
   {
     "revision": "f02d0e04e4d537f6b8e1",
