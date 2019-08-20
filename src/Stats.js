@@ -187,7 +187,7 @@ const Stats = ({ teamdata }) => {
   chartlabels = chartlabels.slice(0, 10);
 
   //put all the info created into a single variable that can be passed to Chart.js HorizontalBar-component
-  let data = {
+  const data = {
     labels: chartlabels,
     datasets: [{
       label: statstype,
